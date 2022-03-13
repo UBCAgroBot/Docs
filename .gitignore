@@ -1,2 +1,2 @@
-/images/output/*.jpg
-/images/output/*.png
+**/images/output/*.jpg
+**/images/output/*.png
