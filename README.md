@@ -6,7 +6,7 @@
 - Install [anaconda](https://docs.anaconda.com/anaconda/install/index.html)
 - Open [Anaconda Prompt](https://docs.anaconda.com/anaconda/user-guide/getting-started/#open-anaconda-prompt)
   - run `conda config --add channels conda-forge`
-  - run `conda install pandas jupyterlab jupyterlab-spellchecker nb_conda_kernels`
+  - run `conda install jupyterlab jupyterlab-spellchecker nb_conda_kernels`
   - create a new virutal environment (kernel): `conda env create -f agrobotenv.yml` (make sure that [agrobotenv.yml](agrobotenv.yml) is in the working directory)
   - Activate the environment with `conda activate agrobot`
 
